@@ -1,0 +1,12 @@
+{
+  "name": "JAVASCRIPT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ethereumjs/common": "^2.6.4",
+    "@ethereumjs/tx": "^3.5.1",
+    "dotenv": "^16.0.0",
+    "web3": "^1.7.3"
+  }
+}
